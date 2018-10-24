@@ -1,0 +1,5 @@
+name: 'pnc_paragraphs_formatter'
+type: module
+description: 'Example paragraphs formatter'
+core: 8.x
+package: 'PNC'
