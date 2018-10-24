@@ -1,4 +1,4 @@
-name: 'field_formatter_examples'
+name: 'Pnc field formatter examples'
 type: module
 description: 'Formatter  Examples'
 core: 8.x

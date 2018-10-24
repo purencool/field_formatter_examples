@@ -1,0 +1,5 @@
+name: 'Pnc text formatter'
+type: module
+description: 'Text formatter example'
+core: 8.x
+package: 'PNC'
